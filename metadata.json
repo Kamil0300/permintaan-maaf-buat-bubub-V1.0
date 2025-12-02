@@ -1,0 +1,7 @@
+{
+  "name": "Green Apology Generator",
+  "description": "An interactive, green-themed application to help users craft sincere apologies to their partners using Gemini AI and voice transcription.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
